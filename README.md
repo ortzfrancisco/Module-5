@@ -10,8 +10,6 @@ N/A
 
 ## Usage
 
-Navigate to https://dgomie.github.io/work-day-calendar/.
-
 <img src="./Assets/images/schedule-events.png" width=500px alt="Work schedule with hour blocks from 9AM to 5PM." />
 
 On the page loading, the program will display the current date and time and populate the hour block cards. Each card consists of an hour label, a text area, and a save button. Based on the current time of day, the text area will be different colors. 
